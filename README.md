@@ -15,4 +15,4 @@ _Sample inputs:
 |<img src="./sample_images/sample_image_1.png" width="440" height="140"/> | <img src="./sample_images/sample_image_2.png" width="440" height="140"/> | <img src="./sample_images/sample_image_3.png" width="440" height="140"/>|
 
 
-Check python notebook for clear details 
+Check "tessract.ipynb" python notebook for clear details 
